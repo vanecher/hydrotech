@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="53.333" height="80" viewBox="0 0 53.333 80">
-  <g id="figma-1" opacity="0.803">
-    <path id="path0_fill" d="M13.333,226.667a13.338,13.338,0,0,0,13.333-13.333V200H13.333a13.333,13.333,0,0,0,0,26.667Z" transform="translate(0 -146.667)" fill="#fff" opacity="0.85"/>
-    <path id="path1_fill" d="M0,113.333A13.338,13.338,0,0,1,13.333,100H26.667v26.667H13.333A13.338,13.338,0,0,1,0,113.333Z" transform="translate(0 -73.333)" fill="#fff" opacity="0.75"/>
-    <path id="path1_fill_1_" d="M0,13.333A13.338,13.338,0,0,1,13.333,0H26.667V26.667H13.333A13.338,13.338,0,0,1,0,13.333Z" fill="#fff"/>
-    <path id="path2_fill" d="M100,0h13.333a13.333,13.333,0,0,1,0,26.667H100Z" transform="translate(-73.333)" fill="#fff" opacity="0.75"/>
-    <path id="path3_fill" d="M126.667,113.333A13.333,13.333,0,1,1,113.333,100,13.338,13.338,0,0,1,126.667,113.333Z" transform="translate(-73.333 -73.333)" fill="#fff"/>
-  </g>
-</svg>
